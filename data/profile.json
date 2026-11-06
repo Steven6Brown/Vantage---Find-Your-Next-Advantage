@@ -1,0 +1,22 @@
+{
+  "queries": [
+    "SOC analyst",
+    "security analyst",
+    "GRC analyst"
+  ],
+  "localArea": {
+    "label": "Akron, OH",
+    "adzunaWhere": "Akron, OH",
+    "distanceKm": 48,
+    "towns": [
+      "akron", "cuyahoga falls", "fairlawn", "stow", "barberton", "hudson", "green",
+      "tallmadge", "kent", "medina", "canton", "twinsburg", "macedonia", "wadsworth",
+      "copley", "brecksville", "streetsboro", "norton", "munroe falls", "silver lake"
+    ]
+  },
+  "maxYearsExperience": 2,
+  "certsHeld": [],
+  "greenhouseBoards": [],
+  "leverCompanies": [],
+  "maxDaysOld": 7
+}
